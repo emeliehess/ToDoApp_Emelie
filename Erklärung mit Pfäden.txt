@@ -1,0 +1,18 @@
+Klasse Main:
+
+MeineToDoApp/app/src/main/java/com/example/myapplication_app/MainActivity
+
+
+Klasse Inhalt:
+
+MeineToDoApp/app/src/main/java/com/example/myapplication_app/Inhalt
+
+
+Layout Startbildschirm:
+
+MeineToDoApp/app/src/main/res/layout/activity_main
+
+
+Layout Produktivumgebung:
+
+MeineToDoApp/app/src/main/res/layout/activity_menu
